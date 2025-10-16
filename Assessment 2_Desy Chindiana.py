@@ -1,5 +1,3 @@
-#Test5
-
 def menu():
     while True:
         print("""
