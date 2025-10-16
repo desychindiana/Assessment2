@@ -1,10 +1,10 @@
 def menu():
     while True:
         print("""
-        =========================================
+        ======================================
         || Welcome to the Password Manager  ||
         || Developed by Apps2U for DigiCore ||
-        =========================================
+        ======================================
         Securely manage and store your credentials        
               
         Please make your selection below by typing 1, 2 or 3
